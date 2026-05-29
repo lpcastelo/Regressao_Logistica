@@ -1,14 +1,14 @@
-# modulo27
-Este repositório contém a resolução da atividade do módulo 27 do curso de Cientista de Dados da EBAC.
+# Regressão Logística
+Aqui você irá encontrar a atividade do módulo 27 do curso de Cientista de Dados da Ebac.
 
-O objetivo do projeto é desenvolver um modelo de Regressão Logística para classificar se pessoas possem doenças cardíacas.
+A atividade consiste em desenvolver um modelo de Regressão Logística para classificar se uma pessoa possui ou não doenças cardíacas, utilizando técnicas de análise de dados e avaliação de modelos de Machine Learning.
 
-Base de dados utilizada: CARDIO_BASE.csv
+Durante a atividade serão abordados temas como:
 
-Etapas do projeto:
+* Análise exploratória de dados (EDA)
+* Regressão Logística
+* Classificação supervisionada
+* Métricas de desempenho como precisão, recall e f1-score
+* Curva ROC e métrica AUC
 
-Análise exploratória dos dados (EDA) para extrair insights sobre as variáveis;
-
-Desenvolvimento e treinamento do modelo de regressão linear;
-
-Avaliação de desempenho utilizando as métricas precisão, recall, f1-score, ROC e AUC.
+O objetivo é compreender como a Regressão Logística pode ser aplicada em problemas de classificação, além de interpretar métricas importantes para avaliar a qualidade e a capacidade preditiva do modelo.

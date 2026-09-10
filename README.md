@@ -1,4 +1,4 @@
-# Regressão Logísticaaaa
+# Regressão Logística
 Aqui você irá encontrar a atividade do módulo 27 do curso de Cientista de Dados da Ebac.
 
 A atividade consiste em desenvolver um modelo de Regressão Logística para classificar se uma pessoa possui ou não doenças cardíacas, utilizando técnicas de análise de dados e avaliação de modelos de Machine Learning.
